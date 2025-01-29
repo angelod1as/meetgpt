@@ -1,7 +1,7 @@
 ipykernel
 openai
 python-dotenv
-streamlit
+streamlit==1.33.0
 streamlit_webrtc
 pydub
 watchdog
